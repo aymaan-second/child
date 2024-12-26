@@ -37,5 +37,5 @@ function merge(left, right) {
   }
   return nums;
 }
-const arr = [90, 45, 67, 86, 12, 43];
+const arr = [901, 45, 67, 86, 12, 43];
 console.log(mergeSort(arr));
